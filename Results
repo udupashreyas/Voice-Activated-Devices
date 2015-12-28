@@ -1,0 +1,13 @@
+Results
+
+word				hits		misses		percentage
+bulb				34			6           85
+tubelight			36			4           90
+fan					25			15          62.5
+television			38			2           95
+air conditioner		33			7           82.5
+projector			28			12          70
+laptop				40			0           100
+cellphone			40			0           100
+
+total				274			46			85.625
